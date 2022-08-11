@@ -1,6 +1,5 @@
 # This script will produce csv files for 10 different levels of sample size, 
-# and 10 different levels of body mass,
-# showing how integration among pairwise combinations of bones evolves over these variables. 
+# showing how integration among pairwise combinations of bones evolves. 
 
 # You will need to run 'Residual_Csize_10_08_2022.R' 
 # to first obtain the array of residual centroid sizes. 
